@@ -32,3 +32,14 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+
+### Courses:
+
+* Free courses from WayUp "JavaScript: Погружение"
+
+### Languages: 
+
+* English - upper-intermediate (according to courses that I have finished)
+* Russian - native
+* Kazakh - basic
